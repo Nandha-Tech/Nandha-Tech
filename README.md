@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nandha-Tech</h1>
+<h1 align="center">Hi 👋, I'm NandhaKumar</h1>
 
 <h3 align="center">MERN Stack Developer from India 🇮🇳</h3>
 
