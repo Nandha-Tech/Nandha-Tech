@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nandha-Tech</h1>
 
-<!--
-**Nandha-Tech/Nandha-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">MERN Stack Developer from India 🇮🇳</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I build modern full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working on MERN stack projects
+- 🌱 I'm learning MongoDB, Express.js, React.js, and Node.js
+- 💻 I like building clean and responsive web apps
+- 🚀 I enjoy creating full-stack applications with REST APIs
+- 🎯 My goal is to become a strong MERN Stack Developer
+- 💬 Ask me about React.js, JavaScript, Node.js, Express.js, and MongoDB
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,redux,git,github,vscode,postman,vite" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### Drag-and-Drop Email Builder
+A full-stack email template builder with React, Node.js, Express, and MongoDB.
+
+- Drag and drop widgets
+- Desktop and mobile preview
+- Custom text and image editing
+- JSON export
+- Responsive design
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: Nandha-Tech
+- LinkedIn: add your link here
