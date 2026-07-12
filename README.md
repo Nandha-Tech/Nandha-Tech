@@ -43,4 +43,4 @@ A full-stack email template builder with React, Node.js, Express, and MongoDB.
 ## 🤝 Connect With Me
 
 - GitHub: Nandha-Tech
-- LinkedIn: add your link here
+- LinkedIn: www.linkedin.com/in/nandhakumaroffl
