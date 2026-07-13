@@ -29,16 +29,7 @@ I build modern full-stack web applications using MongoDB, Express.js, React.js, 
 
 ## 🚀 Featured Project
 
-### Drag-and-Drop Email Builder
-A full-stack email template builder with React, Node.js, Express, and MongoDB.
 
-- Drag and drop widgets
-- Desktop and mobile preview
-- Custom text and image editing
-- JSON export
-- Responsive design
-
----
 
 ### 🏫 MindChamps LMS (Learning Management System)
 A full-stack Learning Management System built using the MERN stack for managing students, instructors, surveys, schedules, and reports.
