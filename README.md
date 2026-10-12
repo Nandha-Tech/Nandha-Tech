@@ -22,7 +22,7 @@ I build modern full-stack web applications using MongoDB, Express.js, React.js, 
 ## 🛠️ Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,redux,git,github,vscode,postman,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,,angularjs,redux,git,github,vscode,postman,vite" />
 </p>
 
 ---
